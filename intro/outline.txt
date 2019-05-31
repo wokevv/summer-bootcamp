@@ -1,0 +1,12 @@
+Key skills
+1. Python - anaconda, numpy, pandas and Jupter notebook
+2. Network knowledge, http, ftp and s3
+(Linux basics, API and other fundamentals)
+3. Data Modeling and storage
+4. 
+
+Four principles
+1. Always self-study 
+2. Test first
+3. Modeling process
+4. 
